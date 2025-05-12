@@ -23,8 +23,8 @@ The scl line switches to high before the sda line switches to high.
 1.I2C playlist by All About VLSI:
 https://youtube.com/playlist?list=PLqPfWwayuBvMUMUfSPQU6Ao-04mp7hAcN&si=0dQbqFSGmHnDZL6W
 This is a good playlist not only for the Verilog part but also to learn about the basic functioning of I2C.
-We used this as basic refernce upon which we have built our project.
+We used this as a basic reference upon which we have built our project.
 
-2.State Machines using VHDL: FPGA Implementation of Serial Communication and Display Protocols
-by Orhan Gazi (Author), A.Çağrı Arlı (Author) 
-For further exploration to learn about I2C in depth this book can be reffered.
+2. State Machines using VHDL: FPGA Implementation of Serial Communication and Display Protocols
+by Orhan Gazi (Author), A.Çağrı Arlı (Author).
+This book can be referred to further explore and learn about I2C in depth.
