@@ -20,7 +20,7 @@ The module which receives the data sends this as an indication that the data has
 The scl line switches to high before the sda line switches to high.
 
 ## References
-1.I2C playlist by All About VLSI:
+1. I2C playlist by All About VLSI:
 https://youtube.com/playlist?list=PLqPfWwayuBvMUMUfSPQU6Ao-04mp7hAcN&si=0dQbqFSGmHnDZL6W
 This is a good playlist not only for the Verilog part but also to learn about the basic functioning of I2C.
 We used this as a basic reference upon which we have built our project.
